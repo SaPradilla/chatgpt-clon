@@ -1,0 +1,7 @@
+[submodule "backend_chatgpt-copy"]
+	path = backend_chatgpt-copy
+	url = https://github.com/SaPradilla/backend_chatgpt-copy.git
+
+[submodule "frontend_chatgpt-copy"]
+	path = frontend_chatgpt-copy
+	url = https://github.com/SaPradilla/frontend_chatgpt-copy.git (fetch)
