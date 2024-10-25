@@ -4,4 +4,4 @@
 
 [submodule "frontend_chatgpt-copy"]
 	path = frontend_chatgpt-copy
-	url = https://github.com/SaPradilla/frontend_chatgpt-copy.git (fetch)
+	url = https://github.com/SaPradilla/frontend_chatgpt-copy.git
